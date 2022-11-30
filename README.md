@@ -60,6 +60,15 @@ Hello! / ¡Hola!
 </div>
 <br>
 
+---
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wesborland-github&show_icons=true&locale=en" alt="wesborland-github" />
+</div>
+<br>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="400"/>
 </div>

@@ -24,9 +24,10 @@ Hello! / ¡Hola!
 
 ### A passionate Fullstack Developer from Córdoba, Argentina. / Apasionado desarrollador Fullstack de Córdoba, Argentina.
 
-- 🔭 I’m currently working on [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31). / 🔭 Actualmente estoy trabajando en el proyecto [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31).
+- 🔭 I’m currently with this project [Voto App](https://github.com/Full-Juan-Ortega/VotoElectronicoAndroid). / 🔭 Actualmente estoy trabajando con este proyecto [Voto App](https://github.com/Full-Juan-Ortega/VotoElectronicoAndroid).
+- 🔭 My previous project was [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31). / 🔭 Mi proyecto anterior fué [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31).
 
-- :seedling: I’m currently learning **React, Tailwind and Java**. / :seedling: Estoy estudiando **React, Tailwind y Java**.
+- :seedling: I’m currently learning **Mobile application development with Android Studio, Java & MySQL**. / :seedling: Actualmente estoy estudiando **Desarrollo de aplicaciones móviles con Android Studio, Java & MySQL**.
 
 - :zap: In my free time, I study and read about programming. / :zap: Durante mi tiempo libre estudio y leo sobre programación.
 
@@ -57,6 +58,10 @@ Hello! / ¡Hola!
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIDEA Badge"/>
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge"/>
+<br>
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="AndroidStudio Badge"/>
+<img src="https://img.shields.io/badge/Auth0-black?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0 Badge"/>
+<img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge" alt="JAVA Badge"/>
 </div>
 <br>
 

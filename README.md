@@ -4,18 +4,38 @@
 
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/marcos-j-gomez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=wesborland-github&label=Profile%20views&color=0e75b6&style=flat" alt="wesborland-github"/>
-</div>
-
 <h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 Hello! / ¡Hola!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+  ### :point_right: Contact me clicking the badges or copying my mail address manually below: :point_left: / 
+  ### :point_right: Contáctame clickeando las insignias o copiando mi mail manualmente a continuación: :point_left:
+
+<br>
+
+<div id="badges" align="center">
+  
+  <a href="mailto:marcosjaviergomezh@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marcos-j-gomez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+<strong>marcosjaviergomezh@gmail.com</strong>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=wesborland-github&label=Profile%20views&color=0e75b6&style=flat" alt="wesborland-github"/>
+</div>
 
 ---
 

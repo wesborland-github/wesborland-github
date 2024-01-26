@@ -24,14 +24,23 @@ Hello! / ¡Hola!
 
 ### A passionate Fullstack Developer from Córdoba, Argentina. / Apasionado desarrollador Fullstack de Córdoba, Argentina.
 
-- 🔭 I’m currently with this project [Voto App](https://github.com/Full-Juan-Ortega/VotoElectronicoAndroid). / 🔭 Actualmente estoy trabajando con este proyecto [Voto App](https://github.com/Full-Juan-Ortega/VotoElectronicoAndroid).
-- 🔭 My previous project was [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31). / 🔭 Mi proyecto anterior fué [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31).
+- 🔭 I’m currently working in a new project locally of React. Soon will be here. 
+  <br>
+  🔭 Actualmente estoy trabajando en un nuevo proyecto localmente. Pronto lo agregaré aquí.
+- 🔭 My previous project was [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31).
+  <br>
+  🔭 Mi proyecto anterior fué [Voto Electrónico](https://github.com/PPROF2-2022ProgWeb/g31-aula1-votoelectronico-g31).
 
-- :seedling: I’m currently learning **Mobile application development with Android Studio, Java & MySQL**. / :seedling: Actualmente estoy estudiando **Desarrollo de aplicaciones móviles con Android Studio, Java & MySQL**.
+- :seedling: I’m currently learning **React, PostgreeSQL & Playwright for testing** & honing my skills in js here : [Retos Programación](https://github.com/wesborland-github/roadmap-retos-programacion).
+  <br>
+  :seedling: Actualmente estoy estudiando **React, PostgreeSQL & Playwright para testing** y perfeccionando mis habilidades en js aquí : [Retos Programación](https://github.com/wesborland-github/roadmap-retos-programacion).
 
-- :zap: In my free time, I study and read about programming. / :zap: Durante mi tiempo libre estudio y leo sobre programación.
+- :zap: In my free time, I study and read about programming. My favourite books are “Clean Code” & “Eloquent JavaScript”.
+  <br>
+  :zap: Durante mi tiempo libre estudio y leo sobre programación. Mis libros favoritos son “Clean Code” & “Eloquent JavaScript”.
 
-- :mailbox: How to reach me:  **marcosjaviergomezh@gmail.com** / :mailbox: Contáctate conmigo:  **marcosjaviergomezh@gmail.com**
+- :mailbox: How to reach me / Contáctate conmigo:  **marcosjaviergomezh@gmail.com**
+  
 
 ---
 
@@ -41,28 +50,58 @@ Hello! / ¡Hola!
 <div align="center">
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400"/>
 </div>
+
 <br>
-<div align="center">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=red" alt="Css Badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript Badge"/>
+
+---
+  
+### :student: Currently learning / Actualmente aprendiendo :
+
+<br>
+
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright Badge"/>
+</div>
+
+---
+
+### :man_student: Learned / Aprendido :
+
+<br>
+
+<div>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=red" alt="Css Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+</div>  
 <br>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=FFF" alt="MySQL Badge"/>
+<div>
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=FFF" alt="MySQL Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black" alt="Springboot Badge"/>
+</div>
+
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIDEA Badge"/>
+
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJIDEA Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge"/>
+</div>
 <br>
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="AndroidStudio Badge"/>
-<img src="https://img.shields.io/badge/Auth0-black?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0 Badge"/>
+<div>
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="AndroidStudio Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Auth0-black?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0 Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge" alt="JAVA Badge"/>
 </div>
+
+
 <br>
 
 ---

@@ -14,9 +14,9 @@
 
 - :credit_card: My full name is **Marcos Javier Gómez Hollger**. <img src="https://media.giphy.com/media/nrxsKSeEuBUnAZKXQj/giphy.gif" width="200" align="right"></img>
 - :school: I'm currently graduated at **I.S.P.C. - Instituto Superior Politécnico de Córdoba**.
-- :books: My major is **Senior Technician in Web Development and Digital Applications**.
+- :books: My major is **WEB AND DIGITAL APPLICATIONS DEVELOPMENT SPECIALIST**.
 - :earth_asia: I'm living now in **Córdoba, Argentina**.
-- :seedling: I’m currently learning **Node.js, React, Next.js, Tailwind, MongoDB & Playwright for testing** & honing my skills in js here : [Retos Programación by Brais Moure](https://github.com/wesborland-github/roadmap-retos-programacion).
+- :seedling: I’m currently learning **Node.js, Express.js, React, Next.js, Tailwind, PostgreSQL & Playwright for testing** & honing my skills in js here : [Retos Programación by Brais Moure](https://github.com/wesborland-github/roadmap-retos-programacion).
 - :zap: In my free time, I study and read about programming. My favourite books are **“Clean Code” & “Eloquent JavaScript”**.
 
 <br>
@@ -64,10 +64,11 @@
 
 <div align="center">  
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/> &nbsp;&nbsp; &nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="Tailwind Badge"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb Badge"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright Badge"/>
 </div>
 

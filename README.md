@@ -16,7 +16,7 @@
 - :school: I'm currently graduated at **I.S.P.C. - Instituto Superior Politécnico de Córdoba**.
 - :books: My major is **WEB AND DIGITAL APPLICATIONS DEVELOPMENT SPECIALIST**.
 - :earth_asia: I'm living now in **Córdoba, Argentina**.
-- :seedling: I’m currently learning **Node.js, Express.js, React, Next.js, Tailwind, PostgreSQL & Playwright for testing** & honing my skills in js here : [Retos Programación by Brais Moure](https://github.com/wesborland-github/roadmap-retos-programacion).
+- :seedling: I’m currently learning **Astro & Tailwind**.
 - :zap: In my free time, I study and read about programming. My favourite books are **“Clean Code” & “Eloquent JavaScript”**.
 
 <br>
@@ -31,45 +31,51 @@
 
 ### 👨‍🎓 Learned 
 
-<div align="right">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=red" alt="Css Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript Badge"/> &nbsp;
-</div>
+<br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=FFF" alt="MySQL Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge" alt="JAVA Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black" alt="Springboot Badge"/> &nbsp;
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="AndroidStudio Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/Auth0-black?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0 Badge"/> &nbsp;
+<div align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> &nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/> &nbsp;
 </div>
 
-<div align="center">
+<div align="left">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=CSS&logoColor=white" alt="Css Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/> &nbsp;
+</div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=FFF" alt="MySQL Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Lighthouse Badge"/> &nbsp;
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge"/> &nbsp;
+</div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/java-16A5F3?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=black" alt="Springboot Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="AndroidStudio Badge"/> &nbsp;
+<img src="https://img.shields.io/badge/Auth0-black?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0 Badge"/> &nbsp;
+</div>
+
+<div align="left">
+<img src="https://img.shields.io/badge/photoshop-0062B0?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop Badge"/> &nbsp;  
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/> &nbsp;
 </div>
+<br>
+<br>
 
 ### 📖 Currently Learning
 
-<div align="center">  
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/> &nbsp;&nbsp; &nbsp;
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/> &nbsp;&nbsp;&nbsp;
+
+
+<div align="left">  
+
+<img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="Tailwind Badge"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright Badge"/>
+
+
 </div>
 
 ---

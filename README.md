@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<h1> Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /> I'm Marcos, a fullstack developer.</h1>
+<h1> Hi there! :wave: I'm Marcos, a fullstack developer.</h1>
 <img src="https://komarev.com/ghpvc/?username=wesborland-github&label=Profile%20views&color=0e75b6&style=flat" alt="wesborland-github" ></img>
 <br>
 
